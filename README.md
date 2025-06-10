@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @TheChum1k
+- 👋 Hi, I'm @TheChum1k!
 - 👀 I'm interested in game development on Unity®
 - 🌱 I'm currently learning C#, C++
 - 💞️ I want to collaborate with Northwood Studios

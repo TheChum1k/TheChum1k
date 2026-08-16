@@ -3,4 +3,3 @@
 - 🌱 I'm currently learning C#, C++
 - 📫 How to contact me: thechumik@gmail.com
 - 😄 pronouns: he\him.
-- ⚡ I am the developer of SCP: Secret Facility

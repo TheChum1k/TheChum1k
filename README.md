@@ -1,5 +1,10 @@
-- 👋 Hi, I'm @TheChum1k!
-- 👀 I'm interested in game development on Unity®
-- 🌱 I'm currently learning C#, C++
-- 📫 How to contact me: thechumik@gmail.com
-- 😄 pronouns: he\him.
+Unity / C# developer
+
+Making fan games in Unity:
+- SCP: Secret Facility (main project)
+- Bendy-Recycle (Bendy and the Ink Machine fan game)
+- Hello Neighbor fan project
+
+Also worked with Python, HTML, CSS.
+
+thechumik@gmail.com

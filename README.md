@@ -1,10 +1,17 @@
-Unity / C# developer
+I'm TheChum1k 👋
 
-Making fan games in Unity:
-- SCP: Secret Facility (main project)
-- Bendy-Recycle (Bendy and the Ink Machine fan game)
-- Hello Neighbor fan project
+I make games in Unity (C#) under TheChum1kStudio.
 
-Also worked with Python, HTML, CSS.
+## what I've made
+- [SCP: Secret Facility](https://gamejolt.com/games/scpsfgame/862234) (main project)
+- [Bendy-Recycle](https://gamejolt.com/games/bendyrecycle/1082783) (BATIM fangame)
+- [Hello Neighbor Unity](https://gamejolt.com/games/HelloNeighborUnity/1066595) (HN fangame)
 
-thechumik@gmail.com
+## what I use
+Unity, C#, some Python, HTML, CSS
+
+## find me
+- [YouTube](https://www.youtube.com/@thechum1k)
+- [Studio YouTube](https://www.youtube.com/@TheChum1k_Studios)
+- [Steam](https://steamcommunity.com/id/TheChum1k/)
+- thechumik@gmail.com
